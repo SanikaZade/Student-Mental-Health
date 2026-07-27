@@ -1,25 +1,9 @@
-Here is a comprehensive and professional `README.md` file tailored for your GitHub repository, incorporating all the details provided.
 
 ***
 
 # 🧠 Student Mental Health Prediction using Machine Learning
 
-### *3rd Semester PBL Project*
-
 This project aims to build and evaluate machine learning classification models capable of predicting student mental health categories based on survey responses. By analyzing demographic details, academic performance, lifestyle habits, and mental health screening results, this study identifies the most accurate predictive model for early identification and intervention of mental health issues (such as depression and anxiety) among university students.
-
----
-
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Objective](#objective)
-- [Tech Stack & Libraries](#tech-stack--libraries)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Model Performance & Results](#model-performance--results)
-- [Key Takeaways](#key-takeaways)
-- [How to Run](#how-to-run)
-- [Contributors](#contributors)
 
 ---
 
@@ -123,21 +107,4 @@ The following table compares the performance of the six classifiers based on wei
 
 ---
 
-## 🚀 How to Run
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/SanikaZade/Student-Mental-Health.git
-    cd Student-Mental-Health
-    ```
-
-2.  **Install dependencies:**
-    Ensure you have Python installed, then install the required libraries:
-    ```bash
-    pip install pandas seaborn matplotlib scikit-learn
-    ```
-
-3.  **Run the Notebook:**
-    Open `ML Code.ipynb` in Jupyter Notebook or JupyterLab to view the code, visualizations, and results.
-
----
