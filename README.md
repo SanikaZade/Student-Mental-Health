@@ -95,8 +95,6 @@ The following table compares the performance of the six classifiers based on wei
 | **K-Nearest Neighbors** | 79.31% | 0.839 | 0.793 | 0.744 |
 | **Decision Tree** | 75.86% | 0.741 | 0.759 | 0.717 |
 
-*(Note: Percentages are rounded for readability)*
-
 ---
 
 ## 💡 Key Takeaways
