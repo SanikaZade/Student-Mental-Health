@@ -106,5 +106,3 @@ The following table compares the performance of the six classifiers based on wei
 *   **Impact:** Early identification using these high-accuracy models can facilitate timely interventions, helping students manage stress, anxiety, and depression before they severely impact academic and social life.
 
 ---
-
-
